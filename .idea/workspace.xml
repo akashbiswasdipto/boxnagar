@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f2fc8dcf-ba90-4e6b-8899-ad3a069b4d1c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1Ws1pxgTXFMgdnUyuufIb1k8k1U" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\boxnagar\Sofa" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\boxnagar" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+    <option name="showServicesTree" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2fc8dcf-ba90-4e6b-8899-ad3a069b4d1c" name="Default Changelist" comment="" />
+      <created>1579109340124</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579109340124</updated>
+      <workItem from="1579109343262" duration="3683000" />
+      <workItem from="1579188649922" duration="14104000" />
+      <workItem from="1579229819702" duration="662000" />
+      <workItem from="1579243222866" duration="280000" />
+      <workItem from="1579273979697" duration="1996000" />
+      <workItem from="1579281313917" duration="2672000" />
+      <workItem from="1579316148266" duration="2476000" />
+      <workItem from="1579367159692" duration="3132000" />
+      <workItem from="1579376253719" duration="4743000" />
+      <workItem from="1579402179588" duration="1373000" />
+      <workItem from="1579434443972" duration="9970000" />
+      <workItem from="1579456495926" duration="498000" />
+      <workItem from="1579489460880" duration="1326000" />
+      <workItem from="1579536347330" duration="3398000" />
+      <workItem from="1579622598178" duration="4515000" />
+      <workItem from="1579629466768" duration="1295000" />
+      <workItem from="1579714108837" duration="1009000" />
+      <workItem from="1579745410768" duration="552000" />
+      <workItem from="1579802731497" duration="1443000" />
+      <workItem from="1579883990901" duration="2472000" />
+      <workItem from="1579886488126" duration="2064000" />
+      <workItem from="1579923686434" duration="371000" />
+      <workItem from="1579924156890" duration="5696000" />
+      <workItem from="1580987207387" duration="2335000" />
+      <workItem from="1580998321987" duration="458000" />
+      <workItem from="1581010453738" duration="721000" />
+      <workItem from="1581050091329" duration="2247000" />
+      <workItem from="1581093422414" duration="597000" />
+      <workItem from="1581171666548" duration="9568000" />
+      <workItem from="1581230062440" duration="6495000" />
+      <workItem from="1581270447913" duration="8061000" />
+      <workItem from="1581338024432" duration="4387000" />
+      <workItem from="1581509134990" duration="612000" />
+      <workItem from="1583491845191" duration="2833000" />
+      <workItem from="1583509917615" duration="4974000" />
+      <workItem from="1583591013320" duration="3608000" />
+      <workItem from="1584029272796" duration="800000" />
+      <workItem from="1584191902636" duration="3534000" />
+      <workItem from="1584282570221" duration="3271000" />
+      <workItem from="1585203974959" duration="607000" />
+      <workItem from="1585228649694" duration="71000" />
+      <workItem from="1585230212890" duration="599000" />
+      <workItem from="1585238181268" duration="1214000" />
+      <workItem from="1585308776227" duration="599000" />
+      <workItem from="1585313624218" duration="599000" />
+      <workItem from="1585386747785" duration="29000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="739" y="266" key="FileChooserDialogImpl" timestamp="1585386773353">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="739" y="266" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1585386773353" />
+    <state x="604" y="342" key="NewPhpFileDialog" timestamp="1579924776519">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="604" y="342" key="NewPhpFileDialog/0.0.1536.834@0.0.1536.834" timestamp="1579924776519" />
+    <state x="655" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1585203976655">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="655" y="348" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1585203976655" />
+    <state x="0" y="0" width="740" height="834" key="find.popup" timestamp="1581271131711">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="0" y="0" width="740" height="834" key="find.popup/0.0.1536.834@0.0.1536.834" timestamp="1581271131711" />
+    <state x="425" y="189" key="run.anything.popup" timestamp="1581270786872">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="425" y="189" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1581270786872" />
+  </component>
+</project>

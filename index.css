@@ -1,0 +1,93 @@
+
+
+body {
+    background-image: url('img/back2.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+@font-face {
+    font-family: subtitle;
+    src: url("font/subtitle.ttf");
+
+}
+
+
+@font-face {
+    font-family: ginebra;
+    src: url("font/ginebra_font.ttf");
+
+}
+
+@font-face {
+
+    font-family: title;
+    src: url("font/title.ttf");
+}
+
+@font-face {
+    font-family:title2;
+    src: url("font/leaguereg.otf");
+}
+
+
+@font-face {
+    font-family:adamina;
+    src: url("font/Adamina-Regular.ttf");
+}
+
+@font-face {
+    font-family:aller_r;
+    src: url("font/Aller_Std_Rg.ttf");
+}
+
+@font-face {
+    font-family:aller_b;
+    src: url("font/Aller_Std_Bd.ttf");
+}
+
+
+.box{
+    text-align: center;
+    height: 100%;
+}
+.logo{
+    text-align: center;
+    padding-top: 10%;
+}
+.logos{
+    width: 20vh;
+    height: auto;
+}
+.welcome{
+    padding-top: 3%;
+    text-align: center;
+}
+.welcome h3{
+    font-family: "Calisto MT", serif;
+    font-size: 4vh;
+}
+
+.welcome h4{
+    font-family: "Calisto MT";
+    font-size: 3vh;
+}
+
+.title h1{
+    font-family: "ginebra";
+    font-size: 6vh;
+    color: white;
+
+}
+
+.subtitle p{
+    font-family: "subtitle";
+    font-size: 4vh;
+    color: white;
+
+}
+
+.btn-dark{
+
+}

@@ -1,0 +1,116 @@
+
+body {
+    background-image: url('img/furniture2.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+@font-face {
+    font-family: impressive_i;
+    src: url("font/Impressive-italic.otf");
+
+}
+@font-face {
+    font-family: impressive_r;
+    src: url("font/Impressive-Regular.otf");
+
+}
+@font-face {
+    font-family: subtitle;
+    src: url("font/subtitle.ttf");
+
+}
+@font-face {
+    font-family: ginebra;
+    src: url("font/ginebra_font.ttf");
+
+}
+@font-face {
+    font-family: title;
+    src: url("font/title.ttf");
+}
+@font-face {
+    font-family:title2;
+    src: url("font/leaguereg.otf");
+}
+@font-face {
+    font-family:adamina;
+    src: url("font/Adamina-Regular.ttf");
+}
+@font-face {
+    font-family:aller_r;
+    src: url("font/Aller_Std_Rg.ttf");
+}
+@font-face {
+    font-family:aller_b;
+    src: url("font/Aller_Std_Bd.ttf");
+}
+
+.home{
+    text-align: center;
+    width: 100%;
+    height: auto;
+    padding-bottom: 9%;
+}
+.container{
+    padding-top: 15%;
+    text-align: center;
+    align-content: center;
+}
+
+.container h5{
+    font-family: subtitle;
+    font-size: 3vh;
+    color: white;
+}
+
+.container h4{
+    font-family: ginebra;
+    font-size: 9vh;
+    color: white;
+}
+.subcontainer{
+    width: 100%;
+}
+.container hr{
+    width: 50%;
+    color: white;
+}
+
+.subscribe{
+    text-align: center;
+    width: 100%;
+    height: auto;
+    background-color: white;
+    padding-top: 1%;
+    padding-bottom: .5%;
+    display: inline-block;
+
+}
+.subscribe p{
+    font-family: aller_r;
+    color: white;
+}
+
+.subscribe h5{
+
+    font-family: impressive_i;
+    font-size: 7vh;
+    color: #101820ff;
+}
+.subscribe h4{
+
+    font-family: ginebra;
+    font-size: 5vh;
+    color: #101820ff;
+
+}
+
+/** image over lay
+ */
+.text hr{
+    width: 100%;
+    color:white;
+
+}

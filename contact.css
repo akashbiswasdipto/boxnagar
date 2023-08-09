@@ -1,0 +1,114 @@
+
+body{
+    background-image: url('img/back2.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+@font-face {
+    font-family: impressive_i;
+    src: url("font/Impressive-italic.otf");
+
+}
+@font-face {
+    font-family: impressive_r;
+    src: url("font/Impressive-Regular.otf");
+
+}
+@font-face {
+    font-family: subtitle;
+    src: url("font/subtitle.ttf");
+
+}
+@font-face {
+    font-family: ginebra;
+    src: url("font/ginebra_font.ttf");
+
+}
+@font-face {
+    font-family: title;
+    src: url("font/title.ttf");
+}
+@font-face {
+    font-family:title2;
+    src: url("font/leaguereg.otf");
+}
+@font-face {
+    font-family:adamina;
+    src: url("font/Adamina-Regular.ttf");
+}
+@font-face {
+    font-family:aller_r;
+    src: url("font/Aller_Std_Rg.ttf");
+}
+@font-face {
+    font-family:aller_b;
+    src: url("font/Aller_Std_Bd.ttf");
+}
+.container{
+    padding-top: 3%;
+    text-align: center;
+    align-content: center;
+    padding-bottom: 3%;
+}
+
+.data{
+    text-align: center;
+    padding-top: 2%;
+    background-color: white;
+
+}
+
+.emailide{
+    width: 50%;
+    height: 35px;
+    text-align: center;
+}
+
+.mcon{
+    padding-top: 1%;
+    text-align: center;
+    align-content: center;
+    width: 50%;
+
+}
+.container h5{
+    font-family: subtitle;
+    font-size: 6vh;
+    color: white;
+}
+.message{
+    text-align: center;
+}
+
+.conmessage{
+    text-align: center;
+    background-color: white;
+    width: 100%;
+    padding-top: 3%;
+}
+
+.conmessage p{
+    font-family: aller_r ;
+    font-size: 2vh;
+    color: black;
+}
+.conmessage h5{
+    font-family: subtitle;
+    font-size: 6vh;
+    color: black;
+}
+input{
+    width: 75%;
+}
+
+.formdata{
+    text-align: right;
+    width: 75%;
+
+}
+
+.faq a, a:hover{
+    color:#101820ff;
+
+}

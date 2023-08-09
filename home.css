@@ -1,0 +1,245 @@
+
+
+body {
+    background-image: url('img/back2.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+@font-face {
+    font-family: impressive_i;
+    src: url("font/Impressive-italic.otf");
+
+}
+@font-face {
+    font-family: impressive_r;
+    src: url("font/Impressive-Regular.otf");
+
+}
+@font-face {
+    font-family: subtitle;
+    src: url("font/subtitle.ttf");
+
+}
+@font-face {
+    font-family: ginebra;
+    src: url("font/ginebra_font.ttf");
+
+}
+@font-face {
+    font-family: title;
+    src: url("font/title.ttf");
+}
+@font-face {
+    font-family:title2;
+    src: url("font/leaguereg.otf");
+}
+@font-face {
+    font-family:adamina;
+    src: url("font/Adamina-Regular.ttf");
+}
+@font-face {
+    font-family:aller_r;
+    src: url("font/Aller_Std_Rg.ttf");
+}
+@font-face {
+    font-family:aller_b;
+    src: url("font/Aller_Std_Bd.ttf");
+}
+
+.box{
+
+}
+.home{
+    text-align: center;
+    width: 100%;
+    height: auto;
+    padding-bottom: 17%;
+}
+.container{
+    padding-top: 15%;
+    text-align: center;
+    align-content: center;
+}
+
+.container h5{
+    font-family: subtitle;
+    font-size: 4vh;
+    color: white;
+}
+
+h5{
+    font-family: subtitle;
+    font-size: 4vh;
+    color: white;
+}
+.container h4{
+    font-family: ginebra;
+    font-size: 9vh;
+    color: white;
+}
+
+.container hr{
+    width: 50%;
+    color: white;
+}
+
+.emailid{
+    width: 25%;
+    height: 35px;
+
+}
+
+.subscribe{
+    text-align: center;
+    width: 100%;
+    height: auto;
+    background-color: #062121;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    display: inline-block;
+
+}
+.subscribe p{
+    font-family: aller_r;
+    color: white;
+}
+
+.subscribe h5{
+
+    font-family: impressive_i;
+    font-size: 5vh;
+    color: white;
+}
+.furniture1{
+    background-image: url("img/furniture2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    padding-top: 13%;
+    padding-bottom: 12%;
+    text-align: center;
+    align-content: center;
+}
+.furniture1 h4{
+    font-family: ginebra;
+    font-size: 9vh;
+    color: white;
+}
+
+.furniture1 h5{
+    font-family: impressive_i;
+    font-size: 5vh;
+    color: white;
+}
+
+.furniture1 .btn .btn-outline-dark:hover{
+    color: white;
+}
+.furniture2{
+    background-image: url("img/bed2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    padding-top: 13%;
+    padding-bottom: 13%;
+    text-align: center;
+    align-content: center;
+}
+
+.furniture2 h4{
+    font-family: ginebra;
+    font-size: 9vh;
+    color: white;
+}
+
+.furniture2 h5 {
+    font-family: impressive_i;
+    font-size: 5vh;
+    color: white;
+}
+
+.furniture3{
+    background-image: url("img/sofa.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    padding-top: 13%;
+    padding-bottom: 13%;
+    text-align: center;
+    align-content: center;
+}
+
+.furniture3 h4{
+    font-family: ginebra;
+    font-size: 9vh;
+    color: white;
+}
+
+.furniture3 h5 {
+    font-family: impressive_i;
+    font-size: 5vh;
+    color: white;
+}
+
+
+.begining{
+    background-image: url("img/about.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100%;
+    padding-top: 13%;
+    padding-bottom: 13%;
+    text-align: center;
+    align-content: center;
+}
+
+.begining h4{
+    font-family: ginebra;
+    font-size: 9vh;
+    color: white;
+}
+
+.begining h5 {
+    font-family: impressive_i;
+    font-size: 5vh;
+    color: white;
+}
+
+.subbegin hr{
+    width: 30%;
+}
+
+.subscribe2{
+    text-align: center;
+    width: 100%;
+    height: auto;
+    background-color: #101820ff;
+    padding-top: 3%;
+    display: inline-block;
+
+}
+.subscribe2 p{
+    font-family: aller_r;
+    color: white;
+}
+
+.subscribe2 h5{
+
+    font-family: "impressive_i";
+    font-size: 5vh;
+    color: white;
+}
+
+.subcontainer2 hr{
+    width: 30%;
+    color:white;
+
+}
+
+.developer a{
+    font-size: 1vh;
+    color:hotpink;
+}

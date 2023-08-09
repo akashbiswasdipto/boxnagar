@@ -1,0 +1,135 @@
+
+@font-face {
+    font-family: impressive_i;
+    src: url("font/Impressive-italic.otf");
+
+}
+@font-face {
+    font-family: impressive_r;
+    src: url("font/Impressive-Regular.otf");
+
+}
+@font-face {
+    font-family: subtitle;
+    src: url("font/subtitle.ttf");
+
+}
+@font-face {
+    font-family: ginebra;
+    src: url("font/ginebra_font.ttf");
+
+}
+@font-face {
+    font-family: title;
+    src: url("font/title.ttf");
+}
+@font-face {
+    font-family:title2;
+    src: url("font/leaguereg.otf");
+}
+@font-face {
+    font-family:adamina;
+    src: url("font/Adamina-Regular.ttf");
+}
+@font-face {
+    font-family:aller_r;
+    src: url("font/Aller_Std_Rg.ttf");
+}
+@font-face {
+    font-family:aller_b;
+    src: url("font/Aller_Std_Bd.ttf");
+}
+
+.quote{
+    background-image: url("img/sofa3.jpg");
+    background-color: black;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    width: 100%;
+    height: auto;
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+* {
+    box-sizing: border-box;
+}
+
+.row {
+    padding:2%;
+
+}
+
+/* Create three equal columns that sits next to each other */
+.column {
+    width: 33.3%;
+    height: auto;
+    padding: 1%;
+}
+
+.image{
+    width: 100%;
+    height: 400px;
+
+}
+.details{
+    width: 100%;
+    background-color: white;
+    text-align: center;
+    padding: 2%;
+}
+
+.details h4{
+    font-family: aller_b;
+    font-size: 3vh;
+}
+
+.details h5{
+    font-family: aller_r;
+    font-size: 1.5vh;
+}
+.quote1{
+    width: 100%;
+    text-align: center;
+    padding: 2%;
+}
+.li{
+    color:yellow;
+}
+.quote1 h1{
+    font-family: ginebra;
+    color:black;
+    font-size: 6vh;
+}
+/** BreadCrumb */
+ul.breadcrumb {
+    padding: 10px 16px;
+    list-style: none;
+    background-color: #062121;
+    padding-left: 2%;
+}
+
+/* Display list items side by side */
+ul.breadcrumb li {
+    display: inline;
+    font-size: 18px;
+}
+
+/* Add a slash symbol (/) before/behind each list item */
+ul.breadcrumb li+li:before {
+    padding: 8px;
+    color: white;
+    content: "/\00a0";
+}
+
+/* Add a color to all links inside the list */
+ul.breadcrumb li a {
+    color: white;
+    text-decoration: none;
+}
+
+/* Add a color on mouse-over */
+ul.breadcrumb li a:hover {
+    color: yellow;
+    text-decoration: none;
+}
